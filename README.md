@@ -217,28 +217,7 @@ Inclui testes de:
 
 ---
 
-## 🤝 Contribuição
 
-1. Crie uma branch:
-```bash
-git checkout -b feature/nova-feature
-```
-
-2. Faça commits
-3. Envie:
-```bash
-git push origin feature/nova-feature
-```
-
-4. Abra um Pull Request
-
----
-
-## 📜 Licença
-
-Projeto licenciado sob MIT License.
-
----
 
 ## 🎯 Conclusão
 
