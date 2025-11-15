@@ -193,7 +193,7 @@ END;
 
 ### Execução
 ```bash
-git clone https://github.com/SEU_USUARIO/ethic_hire.git
+git clone https://github.com/joaohaspani/GlobalSolution-EthicHireApp.git
 cd ethic_hire
 flutter pub get
 flutter run
